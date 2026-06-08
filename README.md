@@ -41,15 +41,17 @@ I have experience designing and deploying solutions on:
 
 * Clean Architecture
 * SOLID Principles
+* System Design
 * Microservices
 * Event-Driven Architectures
 * Kubernetes
 * Docker
-* Python Ecosystem (Sanic, Flask, FastAPI)
+* Python Ecosystem (Sanic, FastAPI, Flask)
 * React + TypeScript
 * PostgreSQL
 * InfluxDB
 * Redis
+* WebSockets
 * CI/CD Pipelines
 * Artificial Intelligence for Industry
 * Industrial IoT (IIoT)
@@ -76,6 +78,8 @@ I have experience designing and deploying solutions on:
 * Flask
 * Node.js
 * Express
+* SQLAlchemy
+* Alembic
 
 ### Databases
 
@@ -91,8 +95,10 @@ I have experience designing and deploying solutions on:
 * Docker
 * Kubernetes
 * Azure
+* Azure Functions
 * AWS
 * Google Cloud
+* DigitalOcean
 * Nginx
 * Apache
 * Linux
@@ -102,14 +108,29 @@ I have experience designing and deploying solutions on:
 * Flutter
 * Dart
 
-### Data & AI
+### Data Science & AI
 
 * Pandas
 * NumPy
 * Machine Learning
 * Data Analytics
 * Scientific Computing
+* Predictive Modeling
 
+### Enterprise Integration & AI
+
+* Large Language Models (LLMs)
+* Generative AI
+* AI Agents
+* Retrieval-Augmented Generation (RAG)
+* MCP (Model Context Protocol)
+* RabbitMQ
+* IBM MQ
+* Enterprise Messaging
+* Event-Driven Architectures
+* Asynchronous Processing
+* API Integration
+  
 ---
 
 ## GitHub Stats
@@ -117,6 +138,8 @@ I have experience designing and deploying solutions on:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=muriloSGomesDr&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloSGomesDr&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
