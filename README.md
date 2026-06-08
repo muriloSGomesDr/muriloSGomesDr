@@ -115,8 +115,15 @@ I have experience designing and deploying solutions on:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muriloSGomesDr&theme=github-dark" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=muriloSGomesDr&theme=dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=muriloSGomesDr&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muriloSGomesDr&theme=github_dark"/>
+
 </div>
 
 ---
@@ -124,7 +131,7 @@ I have experience designing and deploying solutions on:
 ## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/murilosilveiragomesbr/
-* YouTube: https://www.youtube.com/channel/UC13C3_dRT04D6ZKKRofkdpA
+* YouTube: [Murilo S. Gomes](https://www.youtube.com/@MuriloSGomes-xt4tp)
 * Email: [lilo.flp@gmail.com](mailto:lilo.flp@gmail.com)
 
 ---
