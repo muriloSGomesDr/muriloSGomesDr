@@ -115,8 +115,8 @@ I have experience designing and deploying solutions on:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muriloGomesFlp&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloGomesFlp&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muriloSGomesDr&theme=github-dark" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=muriloSGomesDr&theme=dark&hide_border=true" />
 </div>
 
 ---
